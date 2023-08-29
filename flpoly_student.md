@@ -1,6 +1,6 @@
 ## Lilee Yang
 
-### Term Year 
+### 2023-2024
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
@@ -16,11 +16,11 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Music
 
-- Thing 2
+- Sports
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Creating 
 
 ***
 
